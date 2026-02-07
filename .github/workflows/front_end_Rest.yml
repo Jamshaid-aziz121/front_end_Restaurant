@@ -3,7 +3,7 @@ name: Build and Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - 001-platform-features   # change to main if this is your default branch
+      - frontend   # change to main if this is your default branch
 
 permissions:
   contents: read
