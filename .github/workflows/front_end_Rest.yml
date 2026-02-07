@@ -3,7 +3,7 @@ name: front-end-restaurant
 on:
   push:
     branches:
-      - frontend   # change to main if this is your default branch
+      - main   # change to main if this is your default branch
 
 permissions:
   contents: read
