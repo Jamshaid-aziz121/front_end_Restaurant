@@ -16,7 +16,7 @@ const config = {
   url: 'https://jamshaid-aziz121.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Al_Aziziaa_Restaurant/index.html',
+  baseUrl: '/Al_Aziziaa_Restaurant/',
 
 
   // GitHub pages deployment config.
