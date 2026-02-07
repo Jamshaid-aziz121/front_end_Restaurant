@@ -30,7 +30,7 @@ jobs:
                
       - name: Build Docusaurus site
         run: npm run build
-        working-directory: frontend
+        working-directory: frontend/build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
