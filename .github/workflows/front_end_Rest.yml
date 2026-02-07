@@ -1,4 +1,4 @@
-name: Build and Deploy Docusaurus to GitHub Pages
+name: front-end-restaurant
 
 on:
   push:
